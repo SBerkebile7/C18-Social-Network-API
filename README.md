@@ -12,7 +12,7 @@ A node.js API built for a social network backend - this social network allows us
 * Express
 
 ## Video Walkthrough
-[Click here to be guided to the video on YouTube]()
+[Click here to be guided to the video on YouTube](https://youtu.be/V1IKoaoG3CY)
 
 ## GitHub Repository
 https://github.com/SBerkebile7/C18-Social-Network-API
